@@ -60,10 +60,11 @@ Exercise-induced angina strongly correlates with heart disease
 Maximum heart rate shows an inverse relationship with risk
 
 Results
-Accuracy: 88.36%
 Compared multiple machine learning models
 Random Forest achieved the best performance
 Model successfully predicts presence/absence of heart disease
+Accuracy :88.36%
+The model shows good performance in predicting heart disease risk, with Random Forest providing the most accurate predictions.
 
 Project Structure
 Heart-Disease-Risk-Factor-Analysis
