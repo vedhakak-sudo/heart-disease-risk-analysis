@@ -23,17 +23,17 @@ Power BI (for dashboard)
 Dataset
 The dataset used in this project consists of training and testing data:
 📁 Train Data: Included in this repository (data/train.csv) 🔗 Test Data: Hosted externally due to file size limitations [https://drive.google.com/file/d/13nHnNMn_GusosqLL8KLBrxEzaaahgw34/view?usp=sharing] The dataset contains medical attributes such as:
-Age
-Sex
-Chest Pain Type
-Blood Pressure
-Cholesterol
-Maximum Heart Rate
-Exercise Induced Angina
-ST Depression
-Number of Vessels
-Thallium Test Results
-Heart Disease (Target Variable)
+
+Features Description
+* Age: Age of the patient
+* Sex: Gender (0 = Female, 1 = Male)
+* CP: Chest pain type
+* Chol: Cholesterol level
+* Thalach: Maximum heart rate achieved
+* Exang: Exercise induced angina
+* Oldpeak: ST depression
+
+These features are used to predict the likelihood of heart disease.
 
 Project Workflow
 Data Collection
